@@ -10,10 +10,10 @@ Welcome to the **Top 20 Python Interview Questions** repository! This guide will
 
 1. [Introduction](#introduction)
 2. [Questions and Answers](#questions-and-answers)
-    - [Question 1: Write a program to print the given number is odd or even.](#question-1-what-is-python)
+    - [Question 1: Write a program to print the given number is odd or even.]
     - [Question 2: Write a program to find the given number is positive or negative.]
     - [Question 3: Write a program to find the sum of two numbers.]
-    - [And many more...](#and-many-more)
+    - [And many more...]
 3. [Contributing](#contributing)
 4. [License](#license)
 
@@ -43,13 +43,13 @@ Feel free to customize this template as per your requirements. Happy coding! �
 To use this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/top-20-python-interview-questions.git
+git clone https://github.com/siddhu1919/Top-20-Python-Coding-Interview-Question.git
 ```
 
 Navigate to the directory:
 
 ```bash
-cd top-20-python-interview-questions
+cd Top-20-Python-Coding-Interview-Question
 ```
 
 Start exploring the questions and answers:
@@ -68,7 +68,7 @@ We hope this guide helps you ace your Python interview. Good luck! 🍀
 
 ## Contact Us ✉️
 
-For any questions or feedback, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out to us at [Siddharth G Singh](https://www.linkedin.com/in/siddharth-g-singh-46b610201/).
 
 ---
 
@@ -78,4 +78,4 @@ For any questions or feedback, feel free to reach out to us at [your-email@examp
 
 ---
 
-This `README.md` file is designed to be engaging with the use of emojis, images, and a clear structure to make it easy to navigate. You can adjust the content and links to fit your specific repository and preferences.
+
