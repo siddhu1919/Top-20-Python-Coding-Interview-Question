@@ -1,11 +1,13 @@
 
 # 🐍 Top 20 Python Interview Questions 📚
+![Uploading Purple Learn Java Online Facebook Post.png…]()
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 
 
 Welcome to the **Top 20 Python Interview Questions** repository! This guide will help you prepare for your Python interview by providing answers to some of the most commonly asked questions. Let's dive in! 🚀
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 ## Table of Contents 📜
 
 1. [Introduction](#introduction)
