@@ -1,8 +1,6 @@
 
 # 🐍 Top 20 Python Interview Questions 📚
-![Uploading Purple Learn Java Online Facebook Post.png…]()
-
-
+![Top 20 Python Interview Questions](https://github.com/siddhu1919/Top-20-Python-Coding-Interview-Question/assets/85176765/e1c1b7ce-b407-4a76-855a-3d1449b7de70)
 
 
 Welcome to the **Top 20 Python Interview Questions** repository! This guide will help you prepare for your Python interview by providing answers to some of the most commonly asked questions. Let's dive in! 🚀
